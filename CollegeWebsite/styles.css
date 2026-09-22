@@ -1,0 +1,71 @@
+body{
+    background-color:cadetblue;
+}
+header{
+    background-color: blue;
+    color:rgb(255, 255, 255);
+    height: 250px;
+    padding: 5px;
+    text-align: center;
+    margin: 4px;
+    position:sticky;
+   top:10px;
+}
+nav{
+     background-color: brown;
+    color: chartreuse;
+    
+}
+.box{
+   
+    display:inline;
+    /* position:sticky; */
+    top: 10px;
+}
+#about{
+    border: solid coral 5px;
+    padding: 5px;
+    margin: 40px;
+}
+#course_ofr{
+    background-color: blueviolet;
+    border:  solid yellow 5px;
+    padding: 5px;
+    margin: 40px;
+}
+.dept{
+   background-color:chartreuse ; 
+   border:  solid crimson 5px;
+   padding: 5px;
+   margin: 40px;
+}
+.side{
+    float: left;
+}
+#t1{
+   background-color: yellowgreen;
+    padding: 5px;
+    width: 100%;
+    text-align: center;
+    border: 2px;
+    margin: 40px;
+}
+#contact{
+    border: solid crimson 5px;
+    background-color: rgb(189, 107, 152);
+    padding: 5px;
+    margin: 40px;
+}
+footer{
+    background-color: white;
+    color: darkgreen;
+    height: 80px;
+    text-align: center;
+    margin: 40px;
+}
+main{
+    width:  95%;
+}
+.f1{
+    float: left;
+}
